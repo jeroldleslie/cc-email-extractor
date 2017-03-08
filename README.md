@@ -1,4 +1,4 @@
-# cc-urlfilter
+# Email Extractor from common crawl dataset
 This repository contains hadoop mapreduce programe to filter website urls from Common Crawl public datasets.
 
 ## Prerequisities
