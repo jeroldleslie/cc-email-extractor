@@ -1,5 +1,5 @@
 # Email Extractor from common crawl dataset
-This repository contains hadoop mapreduce programe to filter website urls from Common Crawl public datasets.
+This repository contains hadoop mapreduce program to all the emails from Common Crawl public datasets.
 
 ## Prerequisities
 - Need AWS account
@@ -31,6 +31,6 @@ To Run all warc files under a s3 directory
 or
 
 Only to run single warc file
-```<awsAccessKeyId> <awsSecretAccessKey> s3n://commoncrawl/<segment-path>/xxxxx.warc.gz s3n://<bucket-name>/output```
+```<awsAccessKeyId> <awsSecretAccessKey> s3n://commoncrawl/<segment-path>/xxxxx.warc.wet.gz s3n://<bucket-name>/output```
 
 
